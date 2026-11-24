@@ -10,7 +10,7 @@ Se a empresa usar essa aprovação com clientes que falam português, **a garant
 ## Minha previsão (Breno preenche antes de rodar)
 
 - Tipos aprovados em inglês, de 18: 10 a 14
-- Desses, quantos continuam acima de 90% em português: 80% de acerto em português
+- Desses, quantos continuam acima de 90% em português: 8 a 12
 - Por quê: acredito que a perda linguística de contexto não seja tão grande, já que são apenas 18 tipos e deve ser difícil confundir tão poucos assim.
 
 ## Dados
